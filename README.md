@@ -4,7 +4,7 @@ Hi, I'm Daffa 👋
 Hi, I'm Muhamad Daffa Alghifari, also known as Daappoy. I'm a student at Binus university, Game Dev. I've created various Games for Studies and Portofolio, highlighting my skills in Game Programming.
 
 **📩Email** <br>
-alghifaridaffa@gmail.com
+m.alghifaridaffa@gmail.com
 
 <br>
 
