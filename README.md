@@ -53,14 +53,14 @@ m.alghifaridaffa@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/WIPFoxandCrow.png" alt="1" style="width:100%;height:auto;">
       </td>
 <!--       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
       </td> -->
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
+      <td valign="text-top">Currently work in progress Game, Fox and Crow is a platformer game where you can control a Fox and a Crow to escape a garbage crushing machine!</td> <!--desc-->
       <!-- <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
     </tr>
     <tr>
