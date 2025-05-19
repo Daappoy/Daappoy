@@ -60,7 +60,7 @@ m.alghifaridaffa@gmail.com
       </td> -->
     </tr>
     <tr>
-      <td valign="text-top">Currently work in progress Game, Fox and Crow is a platformer game where you can control a Fox and a Crow to escape a garbage crushing machine!</td> <!--desc-->
+      <td valign="text-top">Currently work in progress Game, Fox and Crow is a platformer game where you can control a Fox and a Crow to escape inside a garbage crushing machine!</td> <!--desc-->
       <!-- <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
     </tr>
     <tr>
