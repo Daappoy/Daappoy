@@ -21,7 +21,7 @@ m.alghifaridaffa@gmail.com
         <img src="https://github.com/Daappoy/Interlinked/blob/main/Assets/Screenshoot/Interlinked%20main%20meny.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/FelixNotebook/blob/main/Assets/ScreenShoots/Felix'sNotebook.png" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -30,12 +30,12 @@ m.alghifaridaffa@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Daappoy/Interlinked">Read More</a></td> <!--link1-->
-      <td align="center"><a href="">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Daappoy/FelixNotebook">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
-    </tr>
+<!--     <tr> -->
+<!--       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1--> -->
+<!--       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2--> -->
+<!--     </tr> -->
   </tbody>
 </table>
 
