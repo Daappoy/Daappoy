@@ -29,8 +29,8 @@ m.alghifaridaffa@gmail.com
       <td valign="text-top">Felix’s Notebook is a topdown shooter that combines math with games to make learning more fun, this game will help the player to do simple math and help with fast calculation.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Daappoy/Interlinked">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Daappoy/FelixNotebook">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://thehoodedhood.itch.io/felixs-notebook">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://malootter.itch.io/interlinked">Read More</a></td> <!--link2-->
     </tr>
 <!--     <tr> -->
 <!--       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1--> 
