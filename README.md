@@ -46,7 +46,7 @@ m.alghifaridaffa@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Fox and Crow</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Out of the Box/a></th> <!--tittle 3-->
      <!-- <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
@@ -60,7 +60,7 @@ m.alghifaridaffa@gmail.com
       </td> -->
     </tr>
     <tr>
-      <td valign="text-top">Currently work in progress Game, Fox and Crow is a platformer game where you can control a Fox and a Crow to escape inside a garbage crushing machine!</td> <!--desc-->
+      <td valign="text-top">Currently work in progress Game, Out of the Box is a platformer game where you can control a Fox and a Crow to escape inside a garbage crushing machine!</td> <!--desc-->
       <!-- <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
     </tr>
     <tr>
