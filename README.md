@@ -46,7 +46,7 @@ m.alghifaridaffa@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Out of the Box/a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Out of the Box</a></th> <!--tittle 3-->
      <!-- <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
