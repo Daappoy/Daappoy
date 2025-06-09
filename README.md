@@ -25,7 +25,7 @@ m.alghifaridaffa@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">A Paper Please like game where you and your AI companion determines whether the people and the AI in the city is stable and won't commit any wrongdoings</td> <!--desc-->
+      <td valign="text-top">A Paper Please like game where you and your AI companion determines whether the people and the AI in the city is stable and won't commit any wrongdoings.</td> <!--desc-->
       <td valign="text-top">Felix’s Notebook is a topdown shooter that combines math with games to make learning more fun, this game will help the player to do simple math and help with fast calculation.</td> <!--desc-->
     </tr>
     <tr>
