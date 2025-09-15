@@ -56,7 +56,7 @@ m.alghifaridaffa@gmail.com
         <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/WIPFoxandCrow.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/Assets/UI/TutorialPanel.png.meta" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -64,13 +64,13 @@ m.alghifaridaffa@gmail.com
       <td valign="text-top">A Platformer game where you play as three different robots that has the objective to restore the city's power</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Daappoy/SoftwareEngineering">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://randomhunter33.itch.io/outofthebox">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/Daappoy/Gemastik25">Read More</a></td> <!--link 4-->
     </tr>
 <!--     <tr> -->
      <!-- <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
-      <!--<td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> <!--link 4-->
-<!--     </tr> -->
+      <td align="center"><a href="https://www.youtube.com/watch?v=PdMzHV_UDoI">Trailer</a></td> <!--link 4-->
+     </tr>
   </tbody>
 </table>
 
