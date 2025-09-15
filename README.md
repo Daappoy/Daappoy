@@ -56,7 +56,7 @@ m.alghifaridaffa@gmail.com
         <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/WIPFoxandCrow.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/Assets/UI/TutorialPanel.png.meta" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/Assets/UI/ASmallImpactMenu.jpg" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
