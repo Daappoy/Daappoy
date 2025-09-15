@@ -47,7 +47,7 @@ m.alghifaridaffa@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Out of the Box</a></th> <!--tittle 3-->
-     <!-- <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+     <th width="50%" align="center"><a>A Small Impact</a></th> <!--tittle 4 -->
     </tr>
   </thead>
   <tbody>
@@ -55,17 +55,17 @@ m.alghifaridaffa@gmail.com
       <td align="center">
         <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/WIPFoxandCrow.png" alt="1" style="width:100%;height:auto;">
       </td>
-<!--       <td align="center">
+      <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
-      </td> -->
+      </td>
     </tr>
     <tr>
       <td valign="text-top">Currently work in progress Game, Out of the Box is a platformer game where you can control a Fox and a Crow to escape inside a garbage crushing machine!</td> <!--desc-->
-      <!-- <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">A Platformer game where you play as three different robots that has the objective to restore the city's power</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Daappoy/SoftwareEngineering">Read More</a></td> <!--link 3-->
-      <!-- <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
     </tr>
 <!--     <tr> -->
      <!-- <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
