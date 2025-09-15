@@ -69,7 +69,8 @@ m.alghifaridaffa@gmail.com
     </tr>
      <tr>
      <!-- <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=PdMzHV_UDoI">Trailer</a></td> 
+       <tr></tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=PdMzHV_UDoI">Trailer</a></td>
        <td align="center"><a href="https://www.notion.so/A-Small-Impact-Technical-design-26f218858793806a9c92c48824b914ff">Technical Design Document</a></td>
      </tr>
   </tbody>
