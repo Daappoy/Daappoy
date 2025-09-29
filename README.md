@@ -34,7 +34,7 @@ m.alghifaridaffa@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Daappoy/Interlinked">Github Page</a></td>  
-      <td align="center"><a href="https://thehoodedhood.itch.io/felixs-notebook">Github Page</a></td>  
+      <td align="center"><a href="https://github.com/Daappoy/FelixNotebook">Github Page</a></td>  
     </tr>
   </tbody>
 </table>
