@@ -32,10 +32,10 @@ m.alghifaridaffa@gmail.com
       <td align="center"><a href="https://malootter.itch.io/interlinked">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://thehoodedhood.itch.io/felixs-notebook">Read More</a></td> <!--link2-->
     </tr>
-<!--     <tr> -->
-<!--       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1--> 
-<!--       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2--> 
-<!--     </tr> -->
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td>  
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td>  
+    </tr>
   </tbody>
 </table>
 
