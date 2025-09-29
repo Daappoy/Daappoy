@@ -33,8 +33,8 @@ m.alghifaridaffa@gmail.com
       <td align="center"><a href="https://thehoodedhood.itch.io/felixs-notebook">Itch.io Page</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td>  
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td>  
+      <td align="center"><a href="https://github.com/Daappoy/Interlinked">Github Page</a></td>  
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Github Page</a></td>  
     </tr>
   </tbody>
 </table>
