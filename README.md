@@ -11,7 +11,7 @@ m.alghifaridaffa@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Interlinked </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Interlinked</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Felix's Notebook</a></th> <!--tittle-->
     </tr>
   </thead>
