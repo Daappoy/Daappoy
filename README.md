@@ -64,11 +64,12 @@ m.alghifaridaffa@gmail.com
       <td valign="text-top">A Platformer game where you play as three different robots that has the objective to restore the city's power</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://randomhunter33.itch.io/outofthebox">Read More</a></td> 
+      <td align="center"><a href="https://randomhunter33.itch.io/outofthebox">Itch.io Page</a></td> 
       <td align="center"><a href="https://pimodorf16.itch.io/a-small-impact">Itch.io Page</a></td> <!--link 4-->
     </tr>
      <tr>
        <tr>
+         <td></td>
          <td align="center"><a href="https://github.com/Daappoy/Gemastik25"> githubPage</a></td>
        </tr>
         <td align="center"><a href="https://github.com/Daappoy/SoftwareEngineering/tree/main">Github Page</a></td>
