@@ -70,9 +70,9 @@ m.alghifaridaffa@gmail.com
      <tr>
        <tr>
          <td align="center"><a href="https://github.com/Daappoy/SoftwareEngineering/tree/main">Github Page</a</td>
-         <td align="center"><a href="https://github.com/Daappoy/Gemastik25"> githubPage</a></td>
+         <td align="center"><a href="https://github.com/Daappoy/Gemastik25">Github Page</a></td>
        </tr>
-        <td align="center">></td>
+        <td align="center"></td>
          <td align="center"><a href="https://youtu.be/PdMzHV_UDoI">Trailer</a></td>
      </tr>
   </tbody>
