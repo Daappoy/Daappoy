@@ -56,7 +56,7 @@ m.alghifaridaffa@gmail.com
         <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/Panel.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/Assets/UI/ASmallImpactMenu.jpg" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/GIFS/ezgif.com-video-to-gif-converter.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
