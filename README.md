@@ -18,7 +18,7 @@ m.alghifaridaffa@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Daappoy/Interlinked/blob/main/Assets/Screenshoot/Interlinked%20main%20meny.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/Interlinked/blob/main/Assets/Videos/GIFS/Dialogue.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/Daappoy/FelixNotebook/blob/main/Assets/ScreenShoots/Felix'sNotebook.png" alt="2" style="width:100%;height:auto;">
