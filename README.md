@@ -65,7 +65,7 @@ m.alghifaridaffa@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://randomhunter33.itch.io/outofthebox">Read More</a></td> 
-      <td align="center"><a href="https://github.com/Daappoy/Gemastik25">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://pimodorf16.itch.io/a-small-impact">Itch.io Page</a></td> <!--link 4-->
     </tr>
      <tr>
        <tr>
