@@ -71,7 +71,7 @@ m.alghifaridaffa@gmail.com
      <!-- <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
        <tr></tr>
       <td align="center"><a href="https://github.com/Daappoy/SoftwareEngineering/tree/main">Github Page</a></td>
-       <td align="center"><a href="https://www.notion.so/A-Small-Impact-Technical-design-26f218858793806a9c92c48824b914ff">Technical Design Document</a></td>
+       <td align="center"><a href="https://youtu.be/PdMzHV_UDoI">Trailer</a></td>
      </tr>
   </tbody>
 </table>
