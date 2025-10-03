@@ -53,7 +53,7 @@ m.alghifaridaffa@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/WIPFoxandCrow.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/Screenshoots/Panel.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/Assets/UI/ASmallImpactMenu.jpg" alt="2" style="width:100%;height:auto;">
