@@ -6,6 +6,9 @@ Hi, I'm Muhamad Daffa Alghifari, also known as Daappoy. I'm a student at Binus u
 **📩Email** <br>
 m.alghifaridaffa@gmail.com
 
+**Linkedin** <br>
+https://www.linkedin.com/in/daffa-alghifari329/
+
 <br>
 
 <table width="100%">
