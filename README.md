@@ -9,6 +9,9 @@ m.alghifaridaffa@gmail.com
 **Linkedin** <br>
 https://www.linkedin.com/in/daffa-alghifari329/
 
+**CV** <br>
+https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD
+
 <br>
 
 <table width="100%">
