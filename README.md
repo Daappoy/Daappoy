@@ -12,6 +12,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 | <img width="100%" src="https://github.com/Daappoy/Interlinked/blob/main/Assets/Videos/GIFS/Dialogue.gif" alt="interlinked-preview" /> | <img width="100%" src="https://github.com/Daappoy/FelixNotebook/blob/main/Assets/GIFS/Enemies.gif" alt="felix-preview" /> |
 | A Papers Please–like game where you and your AI companion determine whether people or AIs in the city are stable and safe. | A top-down shooter that mixes math with action to encourage fast and fun calculation practice. |
 | Implemented dialogue system, minigame popups, and scoring system. Built supporting systems for gameplay flow and balancing. | Implemented Unity NavMesh, point-and-click shooting, multiple abilities, and core gameplay flow. |
+| Hours worked: ~30 hours  | Hours worked: ~45 hours  |
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://malootter.itch.io/interlinked) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/Interlinked) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://thehoodedhood.itch.io/felixs-notebook) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/FelixNotebook) |
 
 ###
@@ -23,6 +24,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 | <img width="100%" src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/GIFS/Fox.gif" alt="outofthebox-preview" /> | <img width="100%" src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/GIFS/ezgif.com-video-to-gif-converter.gif" alt="asmallimpact-preview" /> |
 | A platformer where you control a Fox and a Crow trying to escape a garbage-crushing machine. *(Work in Progress)* | A platformer where you play as three robots working together to restore the city's power. |
 | Implemented core gameplay and supporting systems for platforming. | Implemented gameplay systems and mechanics for multi-character platforming and puzzle flow. |
+| Hours worked: ~50 hours  | Hours worked: ~55 hours  |
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://randomhunter33.itch.io/outofthebox) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/SoftwareEngineering) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://pimodorf16.itch.io/a-small-impact) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/Gemastik25) |
 
 ###
