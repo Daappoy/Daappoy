@@ -22,7 +22,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 | [Out of the Box](https://randomhunter33.itch.io/outofthebox) | [A Small Impact](https://pimodorf16.itch.io/a-small-impact) |
 | :---------: | :-----------------: |
 | <img width="100%" src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/GIFS/Fox.gif" alt="outofthebox-preview" /> | <img width="100%" src="https://github.com/Daappoy/Gemastik25/blob/main/Assets/GIFS/ezgif.com-video-to-gif-converter.gif" alt="asmallimpact-preview" /> |
-| A platformer where you control a Fox and a Crow trying to escape a garbage-crushing machine. *(Work in Progress)* | A platformer where you play as three robots working together to restore the city's power. |
+| A platformer where you control a Fox and a Crow trying to escape a garbage-crushing machine. | A platformer where you play as three robots working together to restore the city's power. |
 | Implemented core gameplay and supporting systems for platforming. | Implemented gameplay systems and mechanics for multi-character platforming and puzzle flow. |
 | Hours worked: ~50 hours  | Hours worked: ~55 hours  |
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://randomhunter33.itch.io/outofthebox) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/SoftwareEngineering) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://pimodorf16.itch.io/a-small-impact) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/Gemastik25) |
