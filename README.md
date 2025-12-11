@@ -32,7 +32,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 <p align="left">
 - 🎮 Aspiring game programmer focusing on Unity development  
 <br>- 🧪 Experienced in building gameplay systems, UI, AI, and prototyping  
-<br>- 🧱 Hobbyist in pixel art and 3D modeling  
+<br>- 🧱 Hobbyist in Technical Artist in Unity
 <br>- 📌 Always exploring ways to make fun and meaningful games  
 </p>
 
