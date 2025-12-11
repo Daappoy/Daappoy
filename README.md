@@ -40,7 +40,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 
 ###
 
-<h2 align="left">Connect with me:📬</h2>
+<h2 align="left">📬 Connect with me:</h2>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Daffa-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daffa-alghifari329/?trk=opento_sprofile_details) <br/>
 [![Instagram](https://img.shields.io/badge/Daffa.A-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dapaghifarii/) <br/>
