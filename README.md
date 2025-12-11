@@ -40,9 +40,9 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 
 <h2 align="left">Connect with me:📬</h2>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Richter_Cheniago-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daffa-alghifari329/?trk=opento_sprofile_details) <br/>
-[![Instagram](https://img.shields.io/badge/rchtr.chn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dapaghifarii/) <br/>
-[![Itch.io](https://img.shields.io/badge/rchtr--chn-fa5c5c.svg?logo=itch.io&logoColor=white)](https://dappoy.itch.io/) <br/>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Daffa-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daffa-alghifari329/?trk=opento_sprofile_details) <br/>
+[![Instagram](https://img.shields.io/badge/Daffa.A-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dapaghifarii/) <br/>
+[![Itch.io](https://img.shields.io/badge/Daffa--A-fa5c5c.svg?logo=itch.io&logoColor=white)](https://dappoy.itch.io/) <br/>
 [![Resume](https://img.shields.io/badge/📄_Resume-0096c7.svg?logo=https://www.iconsdb.com/icons/preview/white/text-file-3-xxl.png)](https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD) <br/>
 </p>
 
