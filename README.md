@@ -1,4 +1,4 @@
-<h3 align="left">👋 I'm Muhamad Daffa Alghifari — Game Application & Technology undergraduate at BINUS University.  
+<h3 align="left">👋 I'm Muhamad Daffa Alghifari, Game Application & Technology undergraduate at BINUS University.  
 I specialize in Unity game programming, with experience in both 2D and 3D game development, and have built various games for study and portfolio projects.</h3>
 
 ###
