@@ -51,7 +51,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/400/h/400/theme/dark/icon.jpeg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667820720681" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.rw-designer.com/icon-image/22556-64x64x4.png" alt="aseprite" width="40" height="40"/> </a> 
