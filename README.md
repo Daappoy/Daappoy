@@ -38,25 +38,20 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 
 ###
 
-<h2>📬 Contact & Links</h2>
+<h2 align="left">Connect with me:📬</h2>
 
-**Email:**  
-📧 m.alghifaridaffa@gmail.com  
-
-**LinkedIn:**  
-🔗 https://www.linkedin.com/in/daffa-alghifari329/  
-
-**Curriculum Vitae:**  
-📄 https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Richter_Cheniago-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daffa-alghifari329/?trk=opento_sprofile_details) <br/>
+[![Instagram](https://img.shields.io/badge/rchtr.chn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dapaghifarii/) <br/>
+[![Itch.io](https://img.shields.io/badge/rchtr--chn-fa5c5c.svg?logo=itch.io&logoColor=white)](https://dappoy.itch.io/) <br/>
+[![Resume](https://img.shields.io/badge/📄_Resume-0096c7.svg?logo=https://www.iconsdb.com/icons/preview/white/text-file-3-xxl.png)](https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD) <br/>
+</p>
 
 ###
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/400/h/400/theme/dark/icon.jpeg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667820720681" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.rw-designer.com/icon-image/22556-64x64x4.png" alt="aseprite" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
