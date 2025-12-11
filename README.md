@@ -31,17 +31,25 @@ https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD
       </td>
     </tr>
     <tr>
-  <!-- Kolom 1: teks pertama di atas teks kedua -->
+  <tr>
+  <!-- Row pertama -->
   <td valign="text-top">
-    A Paper Please like game where you and your AI companion determines whether the people and the AI in the city is stable and won't commit any wrongdoings.<br><br>
+    A Paper Please like game where you and your AI companion determines whether the people and the AI in the city is stable and won't commit any wrongdoings.
+  </td>
+  <td valign="text-top">
+    Felix’s Notebook is a topdown shooter that combines math with games to make learning more fun, this game will help the player to do simple math and help with fast calculation.
+  </td>
+</tr>
+
+<tr>
+  <!-- Row kedua -->
+  <td valign="text-top">
     First time implementing a dialogue system, popup for the minigame and the scoring system. Built supporting systems to handle gameplay flow and balancing.
   </td>
-
-  <!-- Kolom 2: teks ketiga di atas teks keempat -->
   <td valign="text-top">
-    Felix’s Notebook is a topdown shooter that combines math with games to make learning more fun, this game will help the player to do simple math and help with fast calculation.<br><br>
     First time implementing the game with Unity's Navmesh system, with point and click shooting game with several in-game abilities. Built supporting systems to handle gameplay flow and balancing.
   </td>
+</tr>
 </tr>
     <tr>
       <td align="center"><a href="https://malootter.itch.io/interlinked">Itch.io Page</a></td> <!--link1-->
