@@ -42,7 +42,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 
 <h2 align="left">📬 Connect with me:</h2>
 
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-D44638?logo=gmail&logoColor=fff)](mailto:m.alghifardaffa@gmail.com)<br/>
+[![Email](https://custom-icon-badges.demolab.com/badge/Daffa-A-D44638?logo=gmail&logoColor=fff)](mailto:m.alghifaridaffa@gmail.com)<br/>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Daffa-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daffa-alghifari329/?trk=opento_sprofile_details) <br/>
 [![Instagram](https://img.shields.io/badge/Daffa.A-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dapaghifarii/) <br/>
 [![Itch.io](https://img.shields.io/badge/Daffa--A-fa5c5c.svg?logo=itch.io&logoColor=white)](https://dappoy.itch.io/) <br/>
