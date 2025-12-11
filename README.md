@@ -33,20 +33,20 @@ https://drive.google.com/drive/folders/1h75R6mX0Ku9wwdZjF-nltF3rDH4wXfQD
     <tr>
   <tr>
   <!-- Row pertama -->
-  <td valign="text-top">
+  <td align="center">
     A Paper Please like game where you and your AI companion determines whether the people and the AI in the city is stable and won't commit any wrongdoings.
   </td>
-  <td valign="text-top">
+  <td align="center">
     Felix’s Notebook is a topdown shooter that combines math with games to make learning more fun, this game will help the player to do simple math and help with fast calculation.
   </td>
 </tr>
 
 <tr>
   <!-- Row kedua -->
-  <td valign="text-top">
+  <td align="center">
     First time implementing a dialogue system, popup for the minigame and the scoring system. Built supporting systems to handle gameplay flow and balancing.
   </td>
-  <td valign="text-top">
+  <td align="cemter">
     First time implementing the game with Unity's Navmesh system, with point and click shooting game with several in-game abilities. Built supporting systems to handle gameplay flow and balancing.
   </td>
 </tr>
