@@ -23,7 +23,7 @@ I specialize in Unity game programming, with experience in both 2D and 3D game d
 | :---------: | :-----------------: |
 | <img width="100%" src="https://github.com/Daappoy/SoftwareEngineering/blob/main/Assets/GIFS/Fox.gif" alt="outofthebox-preview" /> | <img width="100%" src="https://github.com/Daappoy/FelixNotebook/blob/main/Assets/GIFS/Enemies.gif" alt="felix-preview" /> |
 | A platformer where you control a Fox and a Crow trying to escape a garbage-crushing machine. | A top-down shooter that mixes math with action to encourage fast and fun calculation practice. |
-| Implemented core gameplay and supporting systems for platforming. | Implemented Unity NavMesh, point-and-click shooting, multiple abilities, and core gameplay flow. |
+| Implemented core gameplay and supporting systems for platforming. | Implemented Unity AI NavMesh, point-and-click shooting, multiple abilities, and core gameplay flow. |
 | Hours worked: ~50 hours | Hours worked: ~45 hours |
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://randomhunter33.itch.io/outofthebox) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/SoftwareEngineering) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://thehoodedhood.itch.io/felixs-notebook) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge)](https://github.com/Daappoy/FelixNotebook) |
 
